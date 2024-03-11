@@ -1,0 +1,41 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Montserrat-BlackItalic.ttf",
+      "sha1": "88f974aa3e6d5e3d1fd563345be9e513809bb143"
+    },
+    {
+      "path": "assets/fonts/Montserrat-ExtraBold.ttf",
+      "sha1": "1e3298f51b4766e2810a4a2c09a2c75c323d5e7e"
+    },
+    {
+      "path": "assets/fonts/Montserrat-Medium.ttf",
+      "sha1": "25c429296b9d6eb242cba92d1ee7fae484b019cb"
+    },
+    {
+      "path": "assets/fonts/Quicksand-Bold.ttf",
+      "sha1": "8727a6ae26c6646a7f25bfe6560e19c9265ea87c"
+    },
+    {
+      "path": "assets/fonts/Quicksand-Medium.ttf",
+      "sha1": "48d202c7a215914264064dc27f6a8cd77ebe3036"
+    },
+    {
+      "path": "assets/fonts/Quicksand-Regular.ttf",
+      "sha1": "6eebfcb02f142c6e2bf58f7fcb31f10ec914a0ed"
+    },
+    {
+      "path": "assets/fonts/Quicksand-SemiBold.ttf",
+      "sha1": "43fdbf795bb0b7cc5b0d3dbcbdef0cdec0f29ca9"
+    },
+    {
+      "path": "assets/fonts/Tinos-Bold.ttf",
+      "sha1": "64455f4b98381db03451edc117ae28192a1fd487"
+    },
+    {
+      "path": "assets/fonts/Tinos-Regular.ttf",
+      "sha1": "7986131e326593c805a13f9b0087fa52ae5f9c39"
+    }
+  ]
+}
