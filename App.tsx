@@ -10,12 +10,13 @@ import {createBottomTabNavigator} from '@react-navigation/bottom-tabs';
 import {createNativeStackNavigator} from '@react-navigation/native-stack';
 
 import {NavigationContainer} from '@react-navigation/native';
-// import ToDo from './drawerPages/ToDo';
-import Routines from './drawerPages/Routines';
-import Budget from './drawerPages/Budget';
-import Weather from './drawerPages/Weather';
-import Calendar from './drawerPages/Calendar';
-import Reminder from './drawerPages/Reminder';
+
+//importing all main featurese screen
+import Routines from './Features/Future Development/Routines/Routines';
+import Budget from './/Features/Future Development/Budget/Budget';
+import Weather from './/Features/Future Development/Weather/Weather';
+import Calendar from './Features/Future Development/Calender/Calendar';
+import Reminder from './Features/Future Development/Reminder/Reminder';
 import ToDoHome from './Features/ToDo/ToDoHome';
 import AllToDo from './Features/ToDo/AllToDo';
 import AddNewToDo from './Features/ToDo/AddNewToDo';
